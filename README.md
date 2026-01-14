@@ -2,7 +2,7 @@
 
 A simple console-based game where the player guesses a randomly generated number with different difficulty levels and score tracking.
 
-![Gameplay Screenshot](IMAGE_LINK_HERE)
+![Gameplay Screenshot](https://github.com/Hammami-MedAli/Guess-The-Number-Game/blob/main/Guess%20the%20number%20image.png?raw=true)
 
 ## 🕹️ Gameplay
 - Multiple difficulty levels (easy / medium / hard)
