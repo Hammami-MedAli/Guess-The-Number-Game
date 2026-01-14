@@ -5,7 +5,7 @@ A simple console-based game where the player guesses a randomly generated number
 </br>
 ▶️ You can play the game by downloading the .exe file from the bin folder (Windows only).</br>
 
-![Gameplay Screenshot](https://github.com/Hammami-MedAli/Guess-The-Number-Game/blob/main/Guess%20the%20number%20image.png?raw=true)
+![Gameplay Screenshot](https://raw.githubusercontent.com/Hammami-MedAli/Guess-The-Number-Game/refs/heads/main/Guess%20The%20Number%20Gameplay.png)
 
 ## 🕹️ Gameplay
 - Multiple difficulty levels (easy / medium / hard)
